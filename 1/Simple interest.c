@@ -2,6 +2,7 @@
 int main()
 { 
 float P , R , T , SI ;
+//   hii
 
 printf("Enter principle Rate And Time");
 scanf("%f %f %f",&P,&R,&T);

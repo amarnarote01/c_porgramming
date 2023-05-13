@@ -18,7 +18,7 @@ int main()
      }
        for(i=0;i<n;i++)
     {
-    printf("\nEnter value at b[%d]=%d:",i,b[i]);
+    printf("\nvalue at b[%d]=%d:",i,b[i]);
 
     }
 }

@@ -22,7 +22,8 @@ int cmp(char a[],char b[])
        while(a[i]!='\0' && b[i]!='\0')
        {
         if(a[i]!=b[i])
-        { count=1;
+        { 
+         count=1;
          break;
         }
         i++;

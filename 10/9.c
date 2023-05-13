@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main()
 {
-    int n,a[100],i,sum;
+    int n,a[100],i,sum=0;
     printf("Enter no:");
     scanf("%d",&n);
     for (i=0;i<n;i++)

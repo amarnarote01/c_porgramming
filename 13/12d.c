@@ -1,4 +1,4 @@
-// 17)Write a C program to find Sum of digits of given number (Using Function with return type with parameter values).
+// Write a C program to find Sum of digits of given number (Using Function with return type with parameter values).
 #include<stdio.h>
 int sum(int);
 int main()

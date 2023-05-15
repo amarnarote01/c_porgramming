@@ -1,4 +1,4 @@
-// 20)Write a C program to accept base and exponent. Find Power of given number (Using Function without return type with parameter values).
+// Write a C program to accept base and exponent. Find Power of given number (Using Function without return type with parameter values).
 #include<stdio.h>
 void power(int,int);
 int main()

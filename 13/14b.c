@@ -1,4 +1,4 @@
-// 19)Write a C program to find Factorial of given number (Using Function without return type with parameter values).
+// Write a C program to find Factorial of given number (Using Function without return type with parameter values).
 #include<stdio.h>
 void fac(int);
 int main()

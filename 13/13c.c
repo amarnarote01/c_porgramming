@@ -1,4 +1,4 @@
-// 13)Write a C program to find reverse of given number (Using Function with return type without parameter values.).
+// Write a C program to find reverse of given number (Using Function with return type without parameter values.).
 #include<stdio.h>
 int rev();
 int main()

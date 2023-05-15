@@ -1,4 +1,4 @@
-// 16)Write a C program to find Sum of all even numbers between 1 to n (Using Function without return type with parameter values).
+// Write a C program to find Sum of all even numbers between 1 to n (Using Function without return type with parameter values).
 #include<stdio.h>
 void sum(int);
 int main()

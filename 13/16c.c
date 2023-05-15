@@ -1,4 +1,4 @@
-// 24)	Write a C program to perform Calculator operation (Function with return type without parameter values).
+// Write a C program to perform Calculator operation (Function with return type without parameter values).
 #include<stdio.h>
 float calc_add();
 float calc_sub();

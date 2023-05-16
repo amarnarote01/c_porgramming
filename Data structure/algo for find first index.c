@@ -1,3 +1,4 @@
+// complete above algo for find first index.
 #include <stdio.h>
 int findIndexOf(int [],int);
 int main()
@@ -25,7 +26,6 @@ int findIndexOf(int ar[], int data)
             break  ;
     
             }
-        
     }
        return index;
     

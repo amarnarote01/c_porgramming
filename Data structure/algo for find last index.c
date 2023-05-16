@@ -16,17 +16,15 @@ int main()
 }
 int findIndexOf(int ar[], int data)
 {
-    int i,j,index=-1;
+    int i,index=-1;
 
     for(i=0;i<8;i++)
     {
-        for(j=i+1;j<8;j++)
-        {
             if(ar[i]==data)
             {
              index=i;
             }
-        }
+    
     }
     return index;
 }

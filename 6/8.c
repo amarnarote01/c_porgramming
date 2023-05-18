@@ -1,4 +1,10 @@
-#include<stdio.h>
+/*8)Write a C program to print following pattern
+	*
+	*	*
+	*	*	*
+	*	*	*	*
+    */
+    #include<stdio.h>
 int main()
 {
     int i,j,n;

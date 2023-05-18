@@ -1,3 +1,9 @@
+/*9)Write a C program to print following pattern
+	*	*	*	*
+	*	*	*
+	*	*
+	*
+                          */
 #include<stdio.h>
 int main()
 {

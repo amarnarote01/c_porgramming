@@ -1,3 +1,8 @@
+/*12)Write a C program to print following pattern
+1
+22
+333
+4444*/
 #include<stdio.h>
 int main()
 {

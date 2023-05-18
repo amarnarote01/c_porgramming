@@ -1,3 +1,8 @@
+/*13)Write a C program to print following pattern
+1
+01
+101
+0101*/
 #include<stdio.h>
 int main()
 {

@@ -10,12 +10,12 @@ int main()
     int i,j,n;
     printf("Enter value");
     scanf("%d",&n);
-
-    for(i=1;i<=n;i++)
+    n=(n*2)-1;
+    for(i=1;i<=n;i=i+2)
     {
    
         for(j=1;j<=i;j++)
-        {   if(i%2!=0)
+        { 
             printf("*");
         }
         printf("\n");

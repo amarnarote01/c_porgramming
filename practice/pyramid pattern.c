@@ -3,16 +3,15 @@ int main()
 {
     int i,j,n;
     printf("Enter value");
-    scanf("%d",&n);
-
-  for(i=0;i<j;i++)
+    scanf("%d",&n);   
+     for(i=n;i>0;i--)
     {
-        for(j=n;j>0;j--)
+        for(j=1;j<=i;j++)
         {
-        printf("*");
-        
+        printf(" ");    
         }
         printf("\n");
     }
+
 
 }
